@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1416706266 source:d:\biedronka\trunk\biedronka\main.cpp
+	<iostream>
+	"biedronka.h"
+
+1416708773 d:\biedronka\trunk\biedronka\biedronka.h
+	<iostream>
+
+1416705964 source:d:\biedronka\trunk\biedronka\biedronka.cpp
+	"biedronka.h"
+	<iostream>
+
